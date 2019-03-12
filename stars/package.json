@@ -1,0 +1,16 @@
+{
+  "name": "stars",
+  "version": "1.0.0",
+  "main": "githubstars.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon githubstars,js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
